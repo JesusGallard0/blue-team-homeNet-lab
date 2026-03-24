@@ -13,7 +13,8 @@ Analyxe,identify and mitigate vulnerabilities in a local home network
     -Mobile devices
 -Tools
     -nmap
-    -netcat
+    -Router configuration interface
+    -MiniUPnPc(upnpc)
 
 -Methodology
     -Network scanning
